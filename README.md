@@ -1,9 +1,8 @@
 # radiostreamer
+A simple streaming radio player for Windows or Raspberry Pi. 
+(It has not been tested on iOS or other (non-RPi) versions of linux.)
 
-Intr
-Manages a simple streaming radio player on Windows or Raspberry Pi.  It has not
-been tested on iOS or other (non-RPi) versions of linux.
-
+# Description
 The program creates a very simple radio streaming app. The app is based on the
 idea that when listening to music, all you usually want to do is 
 turn it on and listen.  With that in mind, the program opens a simple dialog
@@ -67,5 +66,6 @@ TITLE= 'Play Radio'
     windows.
 *  LOG_FILENAME:  ANme of log file.  Currently, the log file provides little
     useful information.
-*  ICONNAME:  Name of (path to) program icon. This icon is used 
+*  ICONNAME:  Name of (path to) program icon. This icon is used principally
+   on linux to iconify the program window when you don't want the full UI.
 *  TITLE:  Title for the initial UI window.
