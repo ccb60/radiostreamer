@@ -1,1 +1,1 @@
-start C:\Users\cbohl\Dropbox\Coding\radiostreamer\radiostreamer_dev\pythonw.exe "radiostreamer.py"
+start C:\Users\cbohl\Anaconda3\pythonw.exe "radiostreamer.py"
